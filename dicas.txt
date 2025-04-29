@@ -1,0 +1,23 @@
+Pra não esquecer:
+
+ao criar novos componentes, usar o comando:
+-ng g c <nome da pasta>/ <nome do componente>
+-ng g c componente/teste
+
+Para criar um componente em uma pasta ja criada, é so na hora de criar definir a pasta
+que vc quer e colocar o nome do seu componente. Por exemplo:
+
+ng g c componente(que ja existe)/novo_componente
+_________________________________________________________________________________
+
+Cada componente tem seu proprio html, css e seu arquivo de configuração
+TS, onde vc vai programar o que cada componente vai fazer na sua aplicação
+_______________________________________________________________
+
+Toda vez que eu criar um componente novo, eu preciso ir no app.component.html e chamar esse componente la 
+atraves da tag, por exemplo <app-exemplos></app-exemplos>
+ _________________________________________________________________________________________
+
+ chorme web store - angular dev tools
+ Na primeira opção
+ 
